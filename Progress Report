@@ -33,8 +33,10 @@ before deeper analysis.
 - Opened and reviewed dataset
 - Checked for empty cells
 - Cleaned basic data issues
-- Created pivot tables
-- Explored charts
+- Reviewed column data types (date, number, text)
+- Corrected formatting for Date and Amount columns
+- Created a formatted working sheet for analysis
+
 
 ## Next Steps
 - Review data types and formatting
