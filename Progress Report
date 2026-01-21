@@ -36,7 +36,7 @@ before deeper analysis.
 - Reviewed column data types (date, number, text)
 - Corrected formatting for Date and Amount columns
 - Created a formatted working sheet for analysis
-
+- Created a derived column to map Debit/Credit into Income and Expense for analysis
 
 ## Next Steps
 - Review data types and formatting
