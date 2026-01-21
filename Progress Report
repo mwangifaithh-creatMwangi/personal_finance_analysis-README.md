@@ -1,7 +1,8 @@
 # Personal Finance Analysis (Excel / Google Sheets)
 
 ## Project Status
-In progress – learning and building step by step.
+In progress. This project uses one personal finance dataset and is progressively
+improved while learning Excel / Google Sheets fundamentals.
 
 ## Objective
 To analyze personal finance data and understand income, expenses, and spending patterns.
@@ -9,6 +10,10 @@ To analyze personal finance data and understand income, expenses, and spending p
 ## Dataset
 Personal finance dataset sourced from Kaggle.
 Used for learning and portfolio purposes.
+
+## Learning Approach
+This project uses a single dataset.
+The same data is re-analyzed multiple times as new skills are learned.
 
 ## Tools
 - Google Sheets (analysis)
@@ -18,6 +23,12 @@ Used for learning and portfolio purposes.
 This project is being built step by step.
 Each section is updated as I learn new skills.
 
+## Data Understanding
+The dataset contains personal finance transactions including date, amount,
+transaction type (income or expense), category, and account used.
+The goal at this stage is to understand what questions the data can answer
+before deeper analysis.
+
 ## Steps Completed
 - Opened and reviewed dataset
 - Checked for empty cells
@@ -26,6 +37,11 @@ Each section is updated as I learn new skills.
 - Explored charts
 
 ## Next Steps
+- Review data types and formatting
+- Perform structured data cleaning
+- Rebuild pivot tables step by step
+- Create final charts
+- Add insights and conclusions
 - Finalize charts
 - Save visuals
 - Upload cleaned dataset
